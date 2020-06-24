@@ -1,18 +1,20 @@
-/*----------------------------------------------------------------------------------
+ *---------------------------------------------------------------------------------*
  * Josephine Lo, 1689289, jowlo
  * CSE101 - PA4
  * November 29th, 2019
  *----------------------------------------------------------------------------------
- * README - A table of contents for list of files to be submitted
+ * PA4 - uses BFS to determine the shortest paths in graphs
  *----------------------------------------------------------------------------------
  *
- * List.c
- * List.h
- * Graph.c
- * Graph.h
- * GraphTest.c
- * FindPath.c
+ * pa4.pdf - PA4 instructions
+ * List.c - altered from PA1
+ * List.h - altered from PA1
+ * Graph.c - implementation file for Graph ADT
+ * Graph.h - header file for Graph ADT
+ * GraphTest.c - test client
+ * FindPath.c - client program to find shortest path
  * Makefile
  * README
+ * pa4.sh - grading script
  *
- *---------------------------------------------------------------------------------*/
+ *---------------------------------------------------------------------------------*
