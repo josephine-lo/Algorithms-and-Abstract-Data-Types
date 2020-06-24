@@ -1,18 +1,20 @@
-/*----------------------------------------------------------------------------
+*---------------------------------------------------------------------------*
 * Josephine Lo, jowlo, 1689289
 * CSE101 - PA5
 * December 6, 2019
 * --------------------------------------------------------------------------
-* README - a table of contents for list of files to be turned in
+* PA5 - uses DFS to find the strongly connected components of a diagraph
 * --------------------------------------------------------------------------
 *
+* pa5.pdf - instructions for PA5
 * README
 * Makefile
-* List.h
-* List.c
-* Graph.h
-* Graph.c
-* GraphTest.c
-* FindComponents.c
+* List.h - altered from PA1
+* List.c - altered from PA1
+* Graph.h - header file for Graph ADT
+* Graph.c - implementation file for Graph ADT
+* GraphTest.c - test client
+* FindComponents.c - client of both Graph ADT & List ADT
+* pa5.sh - grading script
 *
-* --------------------------------------------------------------------------*/
+* --------------------------------------------------------------------------*
