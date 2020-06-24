@@ -7,6 +7,7 @@
  *---------------------------------------------------------------------------------
  *
  * README
+ * pa2.pdf - instructions for PA2
  * Sparse.c - client of Matrix ADT
  * List.h - altered from PA1
  * List.c - altered from PA1
@@ -16,6 +17,6 @@
  * Matrix.c - Matrix ADT
  * MatrixTest.c - test client
  * MatrixClient.c - test client
- * pa2.sh
+ * pa2.sh - grading script
  *
  *--------------------------------------------------------------------------------*
