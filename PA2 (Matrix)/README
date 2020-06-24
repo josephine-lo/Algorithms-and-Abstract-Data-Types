@@ -13,8 +13,8 @@
  * List.c - altered from PA1
  * ListTest.c - test client
  * ListClient.c - test client
- * Matrix.h - Matrix ADT
- * Matrix.c - Matrix ADT
+ * Matrix.h - header file for Matrix ADT
+ * Matrix.c - implementation file for Matrix ADT
  * MatrixTest.c - test client
  * MatrixClient.c - test client
  * pa2.sh - grading script
