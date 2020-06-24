@@ -3,14 +3,16 @@
  * CSE101 - PA1
  * 10-12-19
  *-----------------------------------------------------------------------------
- * README - table of contents for files to be turned in
+ * PA1 - Integer List ADT (doubly linked list) to alphabetize lines in a file.
  *----------------------------------------------------------------------------
  * 
- * List.h
- * List.c
- * ListClient.c
- * Lex.c
+ * List.h - List ADT module
+ * List.c - List ADT module
+ * ListClient.c - test client
+ * ListTest.c - test client
+ * Lex.c - client module that takes two command line arguments
  * Makefile
  * README
+ * pa1.sh
  *
  *----------------------------------------------------------------------------*
