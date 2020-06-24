@@ -7,13 +7,13 @@
  *----------------------------------------------------------------------------
  * 
  * pa1.pdf - PA1 instructions
- * List.h - List ADT module
- * List.c - List ADT module
+ * List.h - List ADT header file
+ * List.c - List ADT implementation file
  * ListClient.c - test client
  * ListTest.c - test client
  * Lex.c - client module that takes two command line arguments
  * Makefile
  * README
- * pa1.sh
+ * pa1.sh - grading script
  *
  *----------------------------------------------------------------------------*
