@@ -1,19 +1,20 @@
-/*--------------------------------------------------------------------------------------------
+ *-------------------------------------------------------------------------------------------*
  * Josephine Lo, jowlo, 1689289
  * CSE101 - PA3
  * November 14th, 2019
  *--------------------------------------------------------------------------------------------
- * README - contains list of files to be turned in
+ * PA3 - Big Integer Calculator for arithmetic computations for arbitrarily large signed int
  *-------------------------------------------------------------------------------------------
  * 
- * Arithmetic.c
- * BigInteger.c
- * BigInteger.h
- * BigIntegerTest.c
- * List.c
- * List.h
- * ListTest.c
+ * Arithmetic.c - top level client
+ * BigInteger.c - BigIntegerADT implementation file
+ * BigInteger.h - BigIntegerADT header file
+ * BigIntegerTest.c - test client for BigInteger ADT
+ * List.c - altered from PA1
+ * List.h - altered from PA1
+ * ListTest.c - test client for List ADT
  * README
  * Makefile
+ * pa3.sh - grading script
  *
- *--------------------------------------------------------------------------------------------*/
+ *--------------------------------------------------------------------------------------------*
