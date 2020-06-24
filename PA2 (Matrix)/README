@@ -1,20 +1,21 @@
-/*---------------------------------------------------------------------------------
+ *---------------------------------------------------------------------------------
  * Josephine Lo, jowlo, 1689289
  * CSE101 
  * October 29th, 2019
  *---------------------------------------------------------------------------------
- * README - A table of contents for files to be turned in
+ * PA2 - Matrix calculator for performing matrix calculations
  *---------------------------------------------------------------------------------
  *
  * README
- * Sparse.c
- * List.h
- * List.c
- * ListTest.c
- * ListClient.c
- * Matrix.h
- * Matrix.c
- * MatrixTest.c
- * MatrixClient.c
+ * Sparse.c - client of Matrix ADT
+ * List.h - altered from PA1
+ * List.c - altered from PA1
+ * ListTest.c - test client
+ * ListClient.c - test client
+ * Matrix.h - Matrix ADT
+ * Matrix.c - Matrix ADT
+ * MatrixTest.c - test client
+ * MatrixClient.c - test client
+ * pa2.sh
  *
- *--------------------------------------------------------------------------------*/
+ *--------------------------------------------------------------------------------*
