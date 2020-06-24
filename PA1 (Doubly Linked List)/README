@@ -6,6 +6,7 @@
  * PA1 - Integer List ADT (doubly linked list) to alphabetize lines in a file.
  *----------------------------------------------------------------------------
  * 
+ * pa1.pdf - PA1 instructions
  * List.h - List ADT module
  * List.c - List ADT module
  * ListClient.c - test client
